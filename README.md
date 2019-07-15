@@ -1,18 +1,18 @@
 # myportofolio
-# project1
+
 #### portofolio: shows all about me 
 ## Authors: 
 ALINE Ingabire
 ## description :
  this is a potofolio where you can get information about my experiences,education background, skills that i have and project that i have designed.
 ## Installation requirement/setup:
--text editor,
+- text editor,
 - visual code,
--ubuntu or Terminal,
--google chrome
+- ubuntu or Terminal,
+-- google chrome
 ## project setup instruction:
--git clone
--code .
+- git clone
+- code .
 ## Technologies used: 
 in this potofolio i used html and css
 
