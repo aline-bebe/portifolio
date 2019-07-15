@@ -9,7 +9,7 @@ ALINE Ingabire
 - text editor,
 - visual code,
 - ubuntu or Terminal,
--- google chrome
+-  google chrome
 ## project setup instruction:
 - git clone
 - code .
